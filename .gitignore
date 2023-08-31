@@ -4,6 +4,11 @@ __pycache__
 *.egg-info
 dist
 .venv
+venv
+/venv
+bin
+/bin
+.bin
 
 # Log
 *.log
